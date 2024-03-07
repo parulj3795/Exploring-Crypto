@@ -1,2 +1,6 @@
 # Exclude venv folder
 venv/
+test_installs.py
+ta-lib/
+*tar.gz
+.ipynb_checkpoints/
