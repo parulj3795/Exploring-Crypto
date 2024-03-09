@@ -32,10 +32,10 @@ pip install -r requirements.txt
 
 ### Notebooks
 
-0. [Bitcoin-EDA-Basic.ipynb](/home/parul/Parul/Exploring-Crypto/Bitcoin-EDA-Basic.ipynb) and [Bitcoin-EDA-Advance.ipynb](/home/parul/Parul/Exploring-Crypto/Bitcoin-EDA-Advance.ipynb) showcase exploratory data analysis of Bitcoin data, retrieved from Kaggle.   
-1. [GetData-using-CCXT.ipynb](/home/parul/Parul/Exploring-Crypto/GetData-using-CCXT.ipynb): Demonstrates how to use CCXT to fetch historical cryptocurrency data.
-2. [AnalyseData-using-TAlib.ipynb](/home/parul/Parul/Exploring-Crypto/AnalyseData-using-TAlib.ipynb): Shows how to apply technical indicators using TA-Lib.
-3. [BackTest-using-Backtrader.ipynb](/home/parul/Parul/Exploring-Crypto/BackTest-using-Backtrader.ipynb): Implements a simple moving average crossover strategy and backtests it using Backtrader.
+0. [Bitcoin-EDA-Basic.ipynb](/Bitcoin-EDA-Basic.ipynb) and [Bitcoin-EDA-Advance.ipynb](/Bitcoin-EDA-Advance.ipynb) showcase exploratory data analysis of Bitcoin data, retrieved from Kaggle.   
+1. [GetData-using-CCXT.ipynb](/GetData-using-CCXT.ipynb): Demonstrates how to use CCXT to fetch historical cryptocurrency data.
+2. [AnalyseData-using-TAlib.ipynb](/AnalyseData-using-TAlib.ipynb): Shows how to apply technical indicators using TA-Lib.
+3. [BackTest-using-Backtrader.ipynb](/BackTest-using-Backtrader.ipynb): Implements a simple moving average crossover strategy and backtests it using Backtrader.
 
 
 ### Contributing
